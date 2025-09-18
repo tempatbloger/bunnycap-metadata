@@ -1,0 +1,27 @@
+{
+  "name": "BunnyCap",
+  "symbol": "BCAP",
+  "description": "BunnyCap ($BCAP) is a community-driven meme coin inspired by a cute bunny with a magic hat. With a supply of 500,000,000,000,000 tokens, BunnyCap brings fun, creativity, and opportunities to the global crypto community.\n\nTagline: \"Hop into the future with BunnyCap\"\n\nVision:\nTo build a fun, transparent, and community-based meme coin ecosystem.\n\nMission:\n• Provide massive airdrops to grow a global community.\n• Become an iconic meme coin on Solana with the unique branding of a bunny wearing a magic hat.\n• Foster an active community through events, meme competitions, and creator collaborations.\n• Ensure liquidity and a healthy ecosystem with a clear distribution system.",
+  "image": "https://raw.githubusercontent.com/tempatbloger/bunnycap-metadata/main/BunnyCap.png",
+  "external_url": "https://bunnycap.my.id",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme Coin" },
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Supply", "value": "500000000000000" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/tempatbloger/bunnycap-metadata/main/BunnyCap.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3bYGzFkaYdWuFgYCYRFmZGe7hMko8C4GVn1jP5CJHyZW", 
+        "share": 100
+      }
+    ]
+  }
+}
